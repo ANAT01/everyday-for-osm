@@ -1,2 +1,6 @@
+# JOSM application
 *.jar
+
+# JOSM saved session
+*.joz
 
