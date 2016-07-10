@@ -4,3 +4,5 @@
 # JOSM saved session
 *.joz
 
+# Idea IDE ignore
+.idea/
