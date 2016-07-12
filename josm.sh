@@ -35,13 +35,13 @@ _openmap (){
         echo 'Введите название из этого списка'
         echo `ls -d $dir/*/ | xargs -n1 basename`
     else
+        bbox="`cat $dir/${locality[0]}/bbox`"
+        echo java -Xmx1024M -jar josm/josm-latest.jar $dir/${locality[0]}/${locality[0]}.geojson $bbox
+        java -Xmx1024M -jar josm/josm-latest.jar $dir/${locality[0]}/${locality[0]}.geojson $bbox
+
         #make snapchot
         bboxlonlat="`cat $dir/${locality[0]}/bbox_lonlat`"
         wget "http://render.openstreetmap.org/cgi-bin/export?bbox=$bboxlonlat&scale=10000&format=png" -O $dir/${locality[0]}/snapshot.png
-
-        bbox="`cat $dir/${locality[0]}/bbox`"
-        echo java -Xmx1024M -jar josm/josm-latest.jar $dir/${locality[0]}/${locality[0]}.geojson $bbox
-        (java -Xmx1024M -jar josm/josm-latest.jar $dir/${locality[0]}/${locality[0]}.geojson $bbox &)
     fi
 }
 
