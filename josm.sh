@@ -35,6 +35,9 @@ _openmap (){
         echo 'Введите название из этого списка'
         echo `ls -d $dir/*/ | xargs -n1 basename`
     else
+        # Run qgis project
+        (qgis ./qgis/project.qgs &)
+
         bbox="`cat $dir/${locality[0]}/bbox`"
         echo java -Xmx1024M -jar josm/josm-latest.jar $dir/${locality[0]}/${locality[0]}.geojson $bbox
         java -Xmx1024M -jar josm/josm-latest.jar $dir/${locality[0]}/${locality[0]}.geojson $bbox

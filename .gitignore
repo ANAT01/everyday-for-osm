@@ -6,3 +6,6 @@
 
 # Idea IDE ignore
 .idea/
+
+# QGIS Project
+qgis/
