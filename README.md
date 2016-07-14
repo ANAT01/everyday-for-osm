@@ -1,11 +1,18 @@
 # Every day for OSM
 
+### Статьи
+
+[Маршруты общественного транспорта](https://trolleway.github.io/vvod_marshutov_OT_openstreetmap)
+
 
 ### Ссылки
 
+
+* [Блокнот картографа от Яндекс.НЯК](https://yandex.ru/blog/narod-karta/pervaya-progulka-s-bloknotom-kartografa)
 * [Как обозначить](http://wiki.openstreetmap.org/wiki/RU:%D0%9A%D0%B0%D0%BA_%D0%BE%D0%B1%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D1%82%D1%8C#.D0.97.D0.B4.D0.B0.D0.BD.D0.B8.D0.B5)
 * [Справка по тегам OSM](https://taginfo.openstreetmap.org/tags)
 
+* [Картостили](http://www.thunderforest.com/maps/)
 
 ### Программы
 

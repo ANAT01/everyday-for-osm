@@ -3,9 +3,10 @@
 :tomato::tomato::tomato:
 
 - [x] Проверка текущих проблем на участке (zoom на цифру 2)
-- [ ] Проверка дорог и улиц
-- [ ] Частные дома и их адреса, [заборы](http://wiki.openstreetmap.org/wiki/RU:Key:barrier)
+- [x] Проверка дорог и улиц
 - [ ] Трава, Леса, Вода
+- [ ] Частные дома и их адреса, [заборы](http://wiki.openstreetmap.org/wiki/RU:Key:barrier)
+
 
 ## Проблемы
 
