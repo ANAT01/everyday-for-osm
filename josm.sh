@@ -44,6 +44,7 @@ _openmap (){
 
         #make snapchot
         bboxlonlat="`cat $dir/${locality[0]}/bbox_lonlat`"
+        echo wget "http://render.openstreetmap.org/cgi-bin/export?bbox=$bboxlonlat&scale=10000&format=png" -O $dir/${locality[0]}/snapshot.png
         wget "http://render.openstreetmap.org/cgi-bin/export?bbox=$bboxlonlat&scale=10000&format=png" -O $dir/${locality[0]}/snapshot.png
     fi
 }
