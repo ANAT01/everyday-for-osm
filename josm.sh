@@ -35,6 +35,9 @@ _openmap (){
         echo 'Введите название из этого списка'
         echo `ls -d $dir/*/ | xargs -n1 basename`
     else
+        # Run Sublimetext project
+        subl ./
+
         # Run qgis project
         (qgis ./qgis/project.qgs &)
 
