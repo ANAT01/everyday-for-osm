@@ -1,13 +1,20 @@
 # Чеклист Абалак
 
-:tomato::tomato::tomato::tomato::tomato::tomato::tomato::tomato::tomato:
+Статусы ([больше](http://www.webpagefx.com/tools/emoji-cheat-sheet/)):
 
-- [x] Проверка текущих проблем на участке (zoom на цифру 2)
-- [x] Проверка дорог и улиц
-- [x] Лес (natural=wood)
-- [x] Вода (natural=water) 
-- [ ] Заборы, участки (barrier=fence)
-- [ ] Частные дома и их адреса, [заборы](http://wiki.openstreetmap.org/wiki/RU:Key:barrier)
+```
+:o: - открыта/в работе
+:white_check_mark: - завершена
+```
+
+|        | Задача | Время |
+|--------|--------|-------|
+:white_check_mark: | Проверка текущих проблем на участке (zoom на цифру 2) | :tomato::tomato:
+:white_check_mark: | Проверка дорог и улиц | :tomato:
+:white_check_mark: | Лес (natural=wood) | :tomato:
+:white_check_mark: | Вода (natural=water) | :tomato:
+:o: | [Заборы](http://wiki.openstreetmap.org/wiki/RU:Key:barrier), участки (barrier=fence) | :tomato::tomato::tomato::tomato::tomato:
+    | Частные дома и их адреса | 
 
 
 ## Проблемы
