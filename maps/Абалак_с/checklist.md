@@ -13,7 +13,7 @@
 :white_check_mark: | Проверка дорог и улиц | :tomato:
 :white_check_mark: | Лес (natural=wood) | :tomato:
 :white_check_mark: | Вода (natural=water) | :tomato:
-:o: | [Заборы](http://wiki.openstreetmap.org/wiki/RU:Key:barrier), участки (barrier=fence) | :tomato::tomato::tomato::tomato::tomato:
+:o: | [Заборы](http://wiki.openstreetmap.org/wiki/RU:Key:barrier), участки (barrier=fence) | :tomato::tomato::tomato::tomato::tomato::tomato:
     | Частные дома и их адреса | 
 
 
