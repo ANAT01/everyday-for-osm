@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <bounds minlat='58.1097003' minlon='68.5789135' maxlat='58.1445563' maxlon='68.6142583' origin='CGImap 0.4.3 (22752 thorn-03.openstreetmap.org)' />
+  <bounds minlat='58.1097003' minlon='68.5789135' maxlat='58.1445563' maxlon='68.6142583' origin='CGImap 0.4.3 (1238 thorn-03.openstreetmap.org)' />
   <node id='277527401' timestamp='2012-06-03T17:17:21Z' uid='589711' user='anshukov' visible='true' version='4' changeset='11788931' lat='58.1573738' lon='68.3699063' />
   <node id='286938614' timestamp='2012-10-21T17:10:30Z' uid='402319' user='Stalker61' visible='true' version='2' changeset='13582843' lat='58.1500383' lon='68.3545084' />
   <node id='286938615' timestamp='2010-10-13T02:13:11Z' uid='133332' user='AMDmi3' visible='true' version='2' changeset='6026086' lat='58.1562862' lon='68.3342071' />
@@ -3930,18 +3930,18 @@
   <node id='4303095222' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1334967' lon='68.5925618' />
   <node id='4303095223' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.133498' lon='68.5944776' />
   <node id='4303095225' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.133505' lon='68.5946605' />
-  <node id='4303095226' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701' lat='58.1335375321' lon='68.60241413743' />
+  <node id='4303095226' timestamp='2016-07-27T18:53:42Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701' lat='58.1335375' lon='68.6024141' />
   <node id='4303095227' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1335347' lon='68.6040288' />
-  <node id='4303095228' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701' lat='58.1335450321' lon='68.60223133743' />
+  <node id='4303095228' timestamp='2016-07-27T18:53:42Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701' lat='58.133545' lon='68.6022313' />
   <node id='4303095229' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1335422' lon='68.6038461' />
   <node id='4303095230' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1335772' lon='68.6020064' />
   <node id='4303095231' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1335847' lon='68.6018237' />
   <node id='4303095234' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1336168' lon='68.6015558' />
   <node id='4303095235' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1336244' lon='68.6013731' />
-  <node id='4303095236' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701' lat='58.13364073209' lon='68.60242933743' />
+  <node id='4303095236' timestamp='2016-07-27T18:53:42Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701' lat='58.1336407' lon='68.6024293' />
   <node id='4303095237' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1336379' lon='68.6040441' />
   <node id='4303095238' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1336381' lon='68.592374' />
-  <node id='4303095239' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701' lat='58.13364823209' lon='68.60224663743' />
+  <node id='4303095239' timestamp='2016-07-27T18:53:42Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701' lat='58.1336482' lon='68.6022466' />
   <node id='4303095240' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1336454' lon='68.6038613' />
   <node id='4303095241' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1336593' lon='68.600896' />
   <node id='4303095242' timestamp='2016-07-14T16:53:28Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118' lat='58.1336668' lon='68.6007133' />
@@ -6195,169 +6195,169 @@
   <node id='4321672427' timestamp='2016-07-26T18:03:20Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110' lat='58.1301233' lon='68.5969496' />
   <node id='4321672428' timestamp='2016-07-26T18:03:20Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110' lat='58.1301423' lon='68.5973842' />
   <node id='4321672429' timestamp='2016-07-26T18:03:20Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110' lat='58.1301599' lon='68.5969168' />
-  <node id='4323859495' visible='true' version='1' changeset='41069701' lat='58.11387647821' lon='68.57828867348' />
-  <node id='4323859496' visible='true' version='1' changeset='41069701' lat='58.11390390758' lon='68.57873655422' />
-  <node id='4323859497' visible='true' version='1' changeset='41069701' lat='58.11410793044' lon='68.57909060581' />
-  <node id='4323859498' visible='true' version='1' changeset='41069701' lat='58.11439129357' lon='68.57924080951' />
-  <node id='4323859499' visible='true' version='1' changeset='41069701' lat='58.11464065127' lon='68.57891894443' />
-  <node id='4323859500' visible='true' version='1' changeset='41069701' lat='58.11504302025' lon='68.57891894443' />
-  <node id='4323859501' visible='true' version='1' changeset='41069701' lat='58.1151563628' lon='68.57865072353' />
-  <node id='4323859502' visible='true' version='1' changeset='41069701' lat='58.11558706121' lon='68.57827521427' />
-  <node id='4323859503' visible='true' version='1' changeset='41069701' lat='58.11636343862' lon='68.5782859431' />
-  <node id='4323859504' visible='true' version='1' changeset='41069701' lat='58.11721913428' lon='68.57842541797' />
-  <node id='4323859505' visible='true' version='1' changeset='41069701' lat='58.11781980902' lon='68.57818938358' />
-  <node id='4323859506' visible='true' version='1' changeset='41069701' lat='58.11926478698' lon='68.57883311374' />
-  <node id='4323859507' visible='true' version='1' changeset='41069701' lat='58.11988242636' lon='68.57880092723' />
-  <node id='4323859508' visible='true' version='1' changeset='41069701' lat='58.12185993362' lon='68.59752811057' />
-  <node id='4323859509' visible='true' version='1' changeset='41069701' lat='58.12189676295' lon='68.59713650806' />
-  <node id='4323859510' visible='true' version='1' changeset='41069701' lat='58.12192509317' lon='68.59761930568' />
-  <node id='4323859511' visible='true' version='1' changeset='41069701' lat='58.12196475544' lon='68.59755493266' />
-  <node id='4323859512' visible='true' version='1' changeset='41069701' lat='58.12196758846' lon='68.59667516811' />
-  <node id='4323859513' visible='true' version='1' changeset='41069701' lat='58.12208940802' lon='68.59621382816' />
-  <node id='4323859514' visible='true' version='1' changeset='41069701' lat='58.12233304588' lon='68.59627820117' />
-  <node id='4323859515' visible='true' version='1' changeset='41069701' lat='58.12261776011' lon='68.59497464759' />
-  <node id='4323859516' visible='true' version='1' changeset='41069701' lat='58.12272399618' lon='68.59483517272' />
-  <node id='4323859517' visible='true' version='1' changeset='41069701' lat='58.12280331891' lon='68.59487272365' />
-  <node id='4323859518' visible='true' version='1' changeset='41069701' lat='58.12982126466' lon='68.59457768066' />
-  <node id='4323859519' visible='true' version='1' changeset='41069701' lat='58.12982268085' lon='68.59452403648' />
-  <node id='4323859520' visible='true' version='1' changeset='41069701' lat='58.12990198778' lon='68.59465278251' />
-  <node id='4323859521' visible='true' version='1' changeset='41069701' lat='58.12991190113' lon='68.59422899349' />
-  <node id='4323859522' visible='true' version='1' changeset='41069701' lat='58.12993172783' lon='68.59485126598' />
-  <node id='4323859523' visible='true' version='1' changeset='41069701' lat='58.12996146785' lon='68.59502560956' />
-  <node id='4323859524' visible='true' version='1' changeset='41069701' lat='58.129969965' lon='68.59477348192' />
-  <node id='4323859525' visible='true' version='1' changeset='41069701' lat='58.13001528307' lon='68.59415389163' />
-  <node id='4323859526' visible='true' version='1' changeset='41069701' lat='58.13005493634' lon='68.59461254938' />
-  <node id='4323859527' visible='true' version='1' changeset='41069701' lat='58.13006626584' lon='68.59516776664' />
-  <node id='4323859528' visible='true' version='1' changeset='41069701' lat='58.1300705144' lon='68.59475738866' />
-  <node id='4323859529' visible='true' version='1' changeset='41069701' lat='58.13012857801' lon='68.59459913833' />
-  <node id='4323859530' visible='true' version='1' changeset='41069701' lat='58.13013990748' lon='68.59523750408' />
-  <node id='4323859531' visible='true' version='1' changeset='41069701' lat='58.13014415604' lon='68.59426654441' />
-  <node id='4323859532' visible='true' version='1' changeset='41069701' lat='58.13017531207' lon='68.59449184997' />
-  <node id='4323859533' visible='true' version='1' changeset='41069701' lat='58.13022346224' lon='68.59476543529' />
-  <node id='4323859534' visible='true' version='1' changeset='41069701' lat='58.13022346224' lon='68.59507120712' />
-  <node id='4323859535' visible='true' version='1' changeset='41069701' lat='58.13027161235' lon='68.59482444389' />
-  <node id='4323859536' visible='true' version='1' changeset='41069701' lat='58.13027161235' lon='68.5948566304' />
-  <node id='4323859537' visible='true' version='1' changeset='41069701' lat='58.1316523599' lon='68.6018786536' />
-  <node id='4323859538' visible='true' version='1' changeset='41069701' lat='58.13166368889' lon='68.60213614566' />
-  <node id='4323859539' visible='true' version='1' changeset='41069701' lat='58.13170617257' lon='68.59698093994' />
-  <node id='4323859540' visible='true' version='1' changeset='41069701' lat='58.13172033378' lon='68.59716869457' />
-  <node id='4323859541' visible='true' version='1' changeset='41069701' lat='58.13174299171' lon='68.59668053253' />
-  <node id='4323859542' visible='true' version='1' changeset='41069701' lat='58.13175432067' lon='68.601819645' />
-  <node id='4323859543' visible='true' version='1' changeset='41069701' lat='58.13178264306' lon='68.59718478782' />
-  <node id='4323859544' visible='true' version='1' changeset='41069701' lat='58.13186477785' lon='68.59351016147' />
-  <node id='4323859545' visible='true' version='1' changeset='41069701' lat='58.13188743569' lon='68.59366572959' />
-  <node id='4323859546' visible='true' version='1' changeset='41069701' lat='58.13189310015' lon='68.6019108401' />
-  <node id='4323859547' visible='true' version='1' changeset='41069701' lat='58.13190159683' lon='68.60252774818' />
-  <node id='4323859548' visible='true' version='1' changeset='41069701' lat='58.13192116243' lon='68.59335433384' />
-  <node id='4323859549' visible='true' version='1' changeset='41069701' lat='58.13202621464' lon='68.60205567939' />
-  <node id='4323859550' visible='true' version='1' changeset='41069701' lat='58.13205736903' lon='68.59388567073' />
-  <node id='4323859551' visible='true' version='1' changeset='41069701' lat='58.13206020124' lon='68.6025331126' />
-  <node id='4323859552' visible='true' version='1' changeset='41069701' lat='58.1320913556' lon='68.5968521939' />
-  <node id='4323859553' visible='true' version='1' changeset='41069701' lat='58.13209985223' lon='68.59323121173' />
-  <node id='4323859554' visible='true' version='1' changeset='41069701' lat='58.13210268445' lon='68.60224879844' />
-  <node id='4323859555' visible='true' version='1' changeset='41069701' lat='58.1321168455' lon='68.59655178649' />
-  <node id='4323859556' visible='true' version='1' changeset='41069701' lat='58.13215932864' lon='68.59355307681' />
-  <node id='4323859557' visible='true' version='1' changeset='41069701' lat='58.13216782526' lon='68.59695948226' />
-  <node id='4323859558' visible='true' version='1' changeset='41069701' lat='58.1321876507' lon='68.59334386451' />
-  <node id='4323859559' visible='true' version='1' changeset='41069701' lat='58.13219614732' lon='68.59653569324' />
-  <node id='4323859560' visible='true' version='1' changeset='41069701' lat='58.13224429476' lon='68.59695411785' />
-  <node id='4323859561' visible='true' version='1' changeset='41069701' lat='58.13226128796' lon='68.5967019902' />
-  <node id='4323859562' visible='true' version='1' changeset='41069701' lat='58.13234094348' lon='68.59589799805' />
-  <node id='4323859563' visible='true' version='1' changeset='41069701' lat='58.13244471992' lon='68.5964096269' />
-  <node id='4323859564' visible='true' version='1' changeset='41069701' lat='58.1324740563' lon='68.59819933338' />
-  <node id='4323859565' visible='true' version='1' changeset='41069701' lat='58.13248821721' lon='68.59732225103' />
-  <node id='4323859566' visible='true' version='1' changeset='41069701' lat='58.13252680699' lon='68.59731630607' />
-  <node id='4323859567' visible='true' version='1' changeset='41069701' lat='58.13255902168' lon='68.60607161684' />
-  <node id='4323859568' visible='true' version='1' changeset='41069701' lat='58.13259300777' lon='68.60484852953' />
-  <node id='4323859569' visible='true' version='1' changeset='41069701' lat='58.1326100008' lon='68.60371663732' />
-  <node id='4323859570' visible='true' version='1' changeset='41069701' lat='58.13264398684' lon='68.60319628878' />
-  <node id='4323859571' visible='true' version='1' changeset='41069701' lat='58.13266097985' lon='68.60282077951' />
-  <node id='4323859572' visible='true' version='1' changeset='41069701' lat='58.13268080502' lon='68.60228433771' />
-  <node id='4323859573' visible='true' version='1' changeset='41069701' lat='58.13269779801' lon='68.60108270807' />
-  <node id='4323859574' visible='true' version='1' changeset='41069701' lat='58.13270098287' lon='68.59632639093' />
-  <node id='4323859575' visible='true' version='1' changeset='41069701' lat='58.13273461613' lon='68.60201611681' />
-  <node id='4323859576' visible='true' version='1' changeset='41069701' lat='58.13278306935' lon='68.5972330701' />
-  <node id='4323859577' visible='true' version='1' changeset='41069701' lat='58.13279692364' lon='68.60221996469' />
-  <node id='4323859578' visible='true' version='1' changeset='41069701' lat='58.13280258795' lon='68.60206439657' />
-  <node id='4323859579' visible='true' version='1' changeset='41069701' lat='58.13283657381' lon='68.60607698126' />
-  <node id='4323859580' visible='true' version='1' changeset='41069701' lat='58.13286489533' lon='68.60190882845' />
-  <node id='4323859581' visible='true' version='1' changeset='41069701' lat='58.13286489533' lon='68.6048699872' />
-  <node id='4323859582' visible='true' version='1' changeset='41069701' lat='58.13287905609' lon='68.60227897329' />
-  <node id='4323859583' visible='true' version='1' changeset='41069701' lat='58.13301783118' lon='68.60226288004' />
-  <node id='4323859584' visible='true' version='1' changeset='41069701' lat='58.13303199187' lon='68.6015976922' />
-  <node id='4323859585' visible='true' version='1' changeset='41069701' lat='58.1330489847' lon='68.60384001894' />
-  <node id='4323859586' visible='true' version='1' changeset='41069701' lat='58.13306031324' lon='68.60218241377' />
-  <node id='4323859587' visible='true' version='1' changeset='41069701' lat='58.13308483984' lon='68.5959297155' />
-  <node id='4323859588' visible='true' version='1' changeset='41069701' lat='58.13308604595' lon='68.59632798222' />
-  <node id='4323859789' visible='true' version='1' changeset='41069701' lat='58.13309429886' lon='68.60335722132' />
-  <node id='4323859790' visible='true' version='1' changeset='41069701' lat='58.13312545231' lon='68.60782578153' />
-  <node id='4323859791' visible='true' version='1' changeset='41069701' lat='58.13313678083' lon='68.60105052156' />
-  <node id='4323859792' visible='true' version='1' changeset='41069701' lat='58.13313678083' lon='68.60186054869' />
-  <node id='4323859793' visible='true' version='1' changeset='41069701' lat='58.13314527721' lon='68.6017157094' />
-  <node id='4323859794' visible='true' version='1' changeset='41069701' lat='58.13314527721' lon='68.60725715322' />
-  <node id='4323859795' visible='true' version='1' changeset='41069701' lat='58.13323873735' lon='68.6029066102' />
-  <node id='4323859796' visible='true' version='1' changeset='41069701' lat='58.13327272279' lon='68.60239162607' />
-  <node id='4323859797' visible='true' version='1' changeset='41069701' lat='58.13336276507' lon='68.59617228464' />
-  <node id='4323859798' visible='true' version='1' changeset='41069701' lat='58.13336322745' lon='68.59632497065' />
-  <node id='4323859799' visible='true' version='1' changeset='41069701' lat='58.13344854915' lon='68.60264714024' />
-  <node id='4323859800' visible='true' version='1' changeset='41069701' lat='58.13348202736' lon='68.6021454759' />
-  <node id='4323859801' visible='true' version='1' changeset='41069701' lat='58.13351506806' lon='68.60165036712' />
-  <node id='4323859802' visible='true' version='1' changeset='41069701' lat='58.13355224401' lon='68.60109329188' />
-  <node id='4323859803' visible='true' version='1' changeset='41069701' lat='58.13357334897' lon='68.60077703748' />
-  <node id='4323859804' visible='true' version='1' changeset='41069701' lat='58.13359841498' lon='68.60040142698' />
-  <node id='4323859805' visible='true' version='1' changeset='41069701' lat='58.13361468743' lon='68.59592395868' />
-  <node id='4323859806' visible='true' version='1' changeset='41069701' lat='58.13361543113' lon='68.5961695394' />
-  <node id='4323859807' visible='true' version='1' changeset='41069701' lat='58.13366332532' lon='68.60079794325' />
-  <node id='4323859808' visible='true' version='1' changeset='41069701' lat='58.133762676' lon='68.59805181188' />
-  <node id='4323859809' visible='true' version='1' changeset='41069701' lat='58.13379099679' lon='68.60791161222' />
-  <node id='4323859810' visible='true' version='1' changeset='41069701' lat='58.13381931755' lon='68.60738053484' />
-  <node id='4323859811' visible='true' version='1' changeset='41069701' lat='58.13387142783' lon='68.59862208004' />
-  <node id='4323859812' visible='true' version='1' changeset='41069701' lat='58.13390341398' lon='68.5990101654' />
-  <node id='4323859813' visible='true' version='1' changeset='41069701' lat='58.13390396946' lon='68.59688060945' />
-  <node id='4323859814' visible='true' version='1' changeset='41069701' lat='58.13391529773' lon='68.59590428537' />
-  <node id='4323859815' visible='true' version='1' changeset='41069701' lat='58.13395950501' lon='68.58955189152' />
-  <node id='4323859816' visible='true' version='1' changeset='41069701' lat='58.13399455179' lon='68.59688438041' />
-  <node id='4323859817' visible='true' version='1' changeset='41069701' lat='58.13400214367' lon='68.59858342547' />
-  <node id='4323859818' visible='true' version='1' changeset='41069701' lat='58.13400588003' lon='68.59590805633' />
-  <node id='4323859819' visible='true' version='1' changeset='41069701' lat='58.13402547396' lon='68.60277409268' />
-  <node id='4323859820' visible='true' version='1' changeset='41069701' lat='58.1340341297' lon='68.59897151084' />
-  <node id='4323859821' visible='true' version='1' changeset='41069701' lat='58.1340538976' lon='68.60226757732' />
-  <node id='4323859822' visible='true' version='1' changeset='41069701' lat='58.13408189699' lon='68.60176862178' />
-  <node id='4323859823' visible='true' version='1' changeset='41069701' lat='58.13408528689' lon='68.59020379276' />
-  <node id='4323859824' visible='true' version='1' changeset='41069701' lat='58.13411353163' lon='68.60120488474' />
-  <node id='4323859825' visible='true' version='1' changeset='41069701' lat='58.13415350089' lon='68.60049262209' />
-  <node id='4323859826' visible='true' version='1' changeset='41069701' lat='58.13421580591' lon='68.59583094282' />
-  <node id='4323859827' visible='true' version='1' changeset='41069701' lat='58.13437440002' lon='68.59785869284' />
-  <node id='4323859828' visible='true' version='1' changeset='41069701' lat='58.13447493699' lon='68.58971282406' />
-  <node id='4323859829' visible='true' version='1' changeset='41069701' lat='58.13459211176' lon='68.59709895713' />
-  <node id='4323859830' visible='true' version='1' changeset='41069701' lat='58.13461193585' lon='68.59570957286' />
-  <node id='4323859831' visible='true' version='1' changeset='41069701' lat='58.13507071891' lon='68.5971204148' />
-  <node id='4323859832' visible='true' version='1' changeset='41069701' lat='58.13507638415' lon='68.59571450153' />
-  <node id='4323859833' visible='true' version='1' changeset='41069701' lat='58.13510753458' lon='68.5978338824' />
-  <node id='4323859834' visible='true' version='1' changeset='41069701' lat='58.13512721046' lon='68.59712382996' />
-  <node id='4323859835' visible='true' version='1' changeset='41069701' lat='58.13514211418' lon='68.58960770824' />
-  <node id='4323859836' visible='true' version='1' changeset='41069701' lat='58.13531021739' lon='68.59088052528' />
-  <node id='4323859837' visible='true' version='1' changeset='41069701' lat='58.1355037515' lon='68.58955073035' />
-  <node id='4323859838' visible='true' version='1' changeset='41069701' lat='58.13557197513' lon='68.59786070449' />
-  <node id='4323859839' visible='true' version='1' changeset='41069701' lat='58.13560312641' lon='68.59715260131' />
-  <node id='4323859840' visible='true' version='1' changeset='41069701' lat='58.13562294994' lon='68.5957203017' />
-  <node id='4323859841' visible='true' version='1' changeset='41069701' lat='58.1357079078' lon='68.59064019782' />
-  <node id='4323859842' visible='true' version='1' changeset='41069701' lat='58.13597304582' lon='68.58947678966' />
-  <node id='4323859843' visible='true' version='1' changeset='41069701' lat='58.13607499422' lon='68.58963235779' />
-  <node id='4323859844' visible='true' version='1' changeset='41069701' lat='58.1362927251' lon='68.59042938101' />
-  <node id='4323859845' visible='true' version='1' changeset='41069701' lat='58.13649411238' lon='68.59116658134' />
-  <node id='4323859846' visible='true' version='1' changeset='41069701' lat='58.13666791753' lon='68.59290934665' />
-  <node id='4323859847' visible='true' version='1' changeset='41069701' lat='58.13668490862' lon='68.59266794784' />
-  <node id='4323859848' visible='true' version='1' changeset='41069701' lat='58.13670473155' lon='68.59305955036' />
-  <node id='4323859849' visible='true' version='1' changeset='41069701' lat='58.13671889078' lon='68.59235144718' />
-  <node id='4323859850' visible='true' version='1' changeset='41069701' lat='58.13676136842' lon='68.59305955036' />
-  <node id='4323859851' visible='true' version='1' changeset='41069701' lat='58.13678685499' lon='68.59218515022' />
-  <node id='4323859852' visible='true' version='1' changeset='41069701' lat='58.13680101418' lon='68.59269476993' />
-  <node id='4323859853' visible='true' version='1' changeset='41069701' lat='58.13680101418' lon='68.59300054176' />
-  <node id='4323859854' visible='true' version='1' changeset='41069701' lat='58.1368831374' lon='68.59797872169' />
-  <node id='4323859855' visible='true' version='1' changeset='41069701' lat='58.13708986052' lon='68.5962567435' />
-  <node id='4323859856' visible='true' version='1' changeset='41069701' lat='58.13796771248' lon='68.59882629974' />
-  <node id='4323859857' visible='true' version='1' changeset='41069701' lat='58.13820557831' lon='68.59730280502' />
+  <node id='4323859495' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1138765' lon='68.5782887' />
+  <node id='4323859496' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1139039' lon='68.5787366' />
+  <node id='4323859497' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1141079' lon='68.5790906' />
+  <node id='4323859498' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1143913' lon='68.5792408' />
+  <node id='4323859499' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1146407' lon='68.5789189' />
+  <node id='4323859500' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.115043' lon='68.5789189' />
+  <node id='4323859501' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1151564' lon='68.5786507' />
+  <node id='4323859502' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1155871' lon='68.5782752' />
+  <node id='4323859503' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1163634' lon='68.5782859' />
+  <node id='4323859504' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1172191' lon='68.5784254' />
+  <node id='4323859505' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1178198' lon='68.5781894' />
+  <node id='4323859506' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1192648' lon='68.5788331' />
+  <node id='4323859507' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1198824' lon='68.5788009' />
+  <node id='4323859508' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1218599' lon='68.5975281' />
+  <node id='4323859509' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1218968' lon='68.5971365' />
+  <node id='4323859510' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1219251' lon='68.5976193' />
+  <node id='4323859511' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1219648' lon='68.5975549' />
+  <node id='4323859512' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1219676' lon='68.5966752' />
+  <node id='4323859513' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1220894' lon='68.5962138' />
+  <node id='4323859514' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.122333' lon='68.5962782' />
+  <node id='4323859515' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1226178' lon='68.5949746' />
+  <node id='4323859516' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.122724' lon='68.5948352' />
+  <node id='4323859517' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1228033' lon='68.5948727' />
+  <node id='4323859518' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1298213' lon='68.5945777' />
+  <node id='4323859519' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1298227' lon='68.594524' />
+  <node id='4323859520' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.129902' lon='68.5946528' />
+  <node id='4323859521' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1299119' lon='68.594229' />
+  <node id='4323859522' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1299317' lon='68.5948513' />
+  <node id='4323859523' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1299615' lon='68.5950256' />
+  <node id='4323859524' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.12997' lon='68.5947735' />
+  <node id='4323859525' timestamp='2016-07-27T18:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1300153' lon='68.5941539' />
+  <node id='4323859526' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1300549' lon='68.5946125' />
+  <node id='4323859527' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1300663' lon='68.5951678' />
+  <node id='4323859528' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1300705' lon='68.5947574' />
+  <node id='4323859529' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1301286' lon='68.5945991' />
+  <node id='4323859530' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1301399' lon='68.5952375' />
+  <node id='4323859531' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1301442' lon='68.5942665' />
+  <node id='4323859532' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1301753' lon='68.5944918' />
+  <node id='4323859533' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1302235' lon='68.5947654' />
+  <node id='4323859534' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1302235' lon='68.5950712' />
+  <node id='4323859535' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1302716' lon='68.5948244' />
+  <node id='4323859536' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1302716' lon='68.5948566' />
+  <node id='4323859537' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1316524' lon='68.6018787' />
+  <node id='4323859538' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1316637' lon='68.6021361' />
+  <node id='4323859539' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1317062' lon='68.5969809' />
+  <node id='4323859540' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1317203' lon='68.5971687' />
+  <node id='4323859541' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.131743' lon='68.5966805' />
+  <node id='4323859542' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1317543' lon='68.6018196' />
+  <node id='4323859543' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1317826' lon='68.5971848' />
+  <node id='4323859544' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1318648' lon='68.5935102' />
+  <node id='4323859545' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1318874' lon='68.5936657' />
+  <node id='4323859546' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1318931' lon='68.6019108' />
+  <node id='4323859547' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1319016' lon='68.6025277' />
+  <node id='4323859548' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1319212' lon='68.5933543' />
+  <node id='4323859549' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1320262' lon='68.6020557' />
+  <node id='4323859550' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1320574' lon='68.5938857' />
+  <node id='4323859551' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1320602' lon='68.6025331' />
+  <node id='4323859552' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1320914' lon='68.5968522' />
+  <node id='4323859553' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1320999' lon='68.5932312' />
+  <node id='4323859554' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1321027' lon='68.6022488' />
+  <node id='4323859555' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1321168' lon='68.5965518' />
+  <node id='4323859556' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1321593' lon='68.5935531' />
+  <node id='4323859557' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1321678' lon='68.5969595' />
+  <node id='4323859558' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1321877' lon='68.5933439' />
+  <node id='4323859559' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1321961' lon='68.5965357' />
+  <node id='4323859560' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1322443' lon='68.5969541' />
+  <node id='4323859561' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1322613' lon='68.596702' />
+  <node id='4323859562' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1323409' lon='68.595898' />
+  <node id='4323859563' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1324447' lon='68.5964096' />
+  <node id='4323859564' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1324741' lon='68.5981993' />
+  <node id='4323859565' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1324882' lon='68.5973223' />
+  <node id='4323859566' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1325268' lon='68.5973163' />
+  <node id='4323859567' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.132559' lon='68.6060716' />
+  <node id='4323859568' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.132593' lon='68.6048485' />
+  <node id='4323859569' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.13261' lon='68.6037166' />
+  <node id='4323859570' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.132644' lon='68.6031963' />
+  <node id='4323859571' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.132661' lon='68.6028208' />
+  <node id='4323859572' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1326808' lon='68.6022843' />
+  <node id='4323859573' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1326978' lon='68.6010827' />
+  <node id='4323859574' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.132701' lon='68.5963264' />
+  <node id='4323859575' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1327346' lon='68.6020161' />
+  <node id='4323859576' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1327831' lon='68.5972331' />
+  <node id='4323859577' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1327969' lon='68.60222' />
+  <node id='4323859578' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1328026' lon='68.6020644' />
+  <node id='4323859579' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1328366' lon='68.606077' />
+  <node id='4323859580' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1328649' lon='68.6019088' />
+  <node id='4323859581' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1328649' lon='68.60487' />
+  <node id='4323859582' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1328791' lon='68.602279' />
+  <node id='4323859583' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1330178' lon='68.6022629' />
+  <node id='4323859584' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.133032' lon='68.6015977' />
+  <node id='4323859585' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.133049' lon='68.60384' />
+  <node id='4323859586' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1330603' lon='68.6021824' />
+  <node id='4323859587' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1330848' lon='68.5959297' />
+  <node id='4323859588' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.133086' lon='68.596328' />
+  <node id='4323859789' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1330943' lon='68.6033572' />
+  <node id='4323859790' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1331255' lon='68.6078258' />
+  <node id='4323859791' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1331368' lon='68.6010505' />
+  <node id='4323859792' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1331368' lon='68.6018605' />
+  <node id='4323859793' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1331453' lon='68.6017157' />
+  <node id='4323859794' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1331453' lon='68.6072572' />
+  <node id='4323859795' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1332387' lon='68.6029066' />
+  <node id='4323859796' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1332727' lon='68.6023916' />
+  <node id='4323859797' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1333628' lon='68.5961723' />
+  <node id='4323859798' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1333632' lon='68.596325' />
+  <node id='4323859799' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1334485' lon='68.6026471' />
+  <node id='4323859800' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.133482' lon='68.6021455' />
+  <node id='4323859801' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1335151' lon='68.6016504' />
+  <node id='4323859802' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1335522' lon='68.6010933' />
+  <node id='4323859803' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1335733' lon='68.600777' />
+  <node id='4323859804' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1335984' lon='68.6004014' />
+  <node id='4323859805' timestamp='2016-07-27T18:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1336147' lon='68.595924' />
+  <node id='4323859806' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1336154' lon='68.5961695' />
+  <node id='4323859807' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1336633' lon='68.6007979' />
+  <node id='4323859808' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1337627' lon='68.5980518' />
+  <node id='4323859809' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.133791' lon='68.6079116' />
+  <node id='4323859810' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1338193' lon='68.6073805' />
+  <node id='4323859811' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1338714' lon='68.5986221' />
+  <node id='4323859812' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1339034' lon='68.5990102' />
+  <node id='4323859813' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.133904' lon='68.5968806' />
+  <node id='4323859814' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1339153' lon='68.5959043' />
+  <node id='4323859815' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1339595' lon='68.5895519' />
+  <node id='4323859816' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1339946' lon='68.5968844' />
+  <node id='4323859817' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1340021' lon='68.5985834' />
+  <node id='4323859818' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1340059' lon='68.5959081' />
+  <node id='4323859819' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1340255' lon='68.6027741' />
+  <node id='4323859820' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1340341' lon='68.5989715' />
+  <node id='4323859821' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1340539' lon='68.6022676' />
+  <node id='4323859822' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1340819' lon='68.6017686' />
+  <node id='4323859823' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1340853' lon='68.5902038' />
+  <node id='4323859824' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1341135' lon='68.6012049' />
+  <node id='4323859825' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1341535' lon='68.6004926' />
+  <node id='4323859826' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1342158' lon='68.5958309' />
+  <node id='4323859827' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1343744' lon='68.5978587' />
+  <node id='4323859828' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1344749' lon='68.5897128' />
+  <node id='4323859829' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1345921' lon='68.597099' />
+  <node id='4323859830' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1346119' lon='68.5957096' />
+  <node id='4323859831' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1350707' lon='68.5971204' />
+  <node id='4323859832' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1350764' lon='68.5957145' />
+  <node id='4323859833' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1351075' lon='68.5978339' />
+  <node id='4323859834' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1351272' lon='68.5971238' />
+  <node id='4323859835' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1351421' lon='68.5896077' />
+  <node id='4323859836' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1353102' lon='68.5908805' />
+  <node id='4323859837' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1355038' lon='68.5895507' />
+  <node id='4323859838' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.135572' lon='68.5978607' />
+  <node id='4323859839' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1356031' lon='68.5971526' />
+  <node id='4323859840' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1356229' lon='68.5957203' />
+  <node id='4323859841' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1357079' lon='68.5906402' />
+  <node id='4323859842' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.135973' lon='68.5894768' />
+  <node id='4323859843' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.136075' lon='68.5896324' />
+  <node id='4323859844' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1362927' lon='68.5904294' />
+  <node id='4323859845' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1364941' lon='68.5911666' />
+  <node id='4323859846' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1366679' lon='68.5929093' />
+  <node id='4323859847' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1366849' lon='68.5926679' />
+  <node id='4323859848' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1367047' lon='68.5930596' />
+  <node id='4323859849' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1367189' lon='68.5923514' />
+  <node id='4323859850' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1367614' lon='68.5930596' />
+  <node id='4323859851' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1367869' lon='68.5921852' />
+  <node id='4323859852' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.136801' lon='68.5926948' />
+  <node id='4323859853' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.136801' lon='68.5930005' />
+  <node id='4323859854' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1368831' lon='68.5979787' />
+  <node id='4323859855' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1370899' lon='68.5962567' />
+  <node id='4323859856' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1379677' lon='68.5988263' />
+  <node id='4323859857' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701' lat='58.1382056' lon='68.5973028' />
   <way id='26205077' timestamp='2016-02-13T12:32:38Z' uid='2480327' user='etajin' visible='true' version='12' changeset='37185427'>
     <nd ref='286941334' />
     <nd ref='286941332' />
@@ -6415,7 +6415,7 @@
     <tag k='name:tt' v='Иртеш' />
     <tag k='waterway' v='river' />
   </way>
-  <way id='51156839' timestamp='2015-09-10T16:50:55Z' uid='2398059' user='Аркадий82' visible='true' version='11' changeset='41069701'>
+  <way id='51156839' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='11' changeset='41069701'>
     <nd ref='586365482' />
     <nd ref='766263994' />
     <nd ref='586365480' />
@@ -9654,13 +9654,15 @@
     <nd ref='3023697000' />
     <tag k='building' v='yes' />
   </way>
-  <way id='298460891' timestamp='2014-08-18T03:08:53Z' uid='402319' user='Stalker61' visible='true' version='1' changeset='24822495'>
+  <way id='298460891' timestamp='2014-08-18T03:08:53Z' uid='402319' user='Stalker61' visible='true' version='2' changeset='41092735'>
     <nd ref='3023697010' />
     <nd ref='3023697009' />
     <nd ref='3023697003' />
     <nd ref='3023697004' />
     <nd ref='3023697010' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='298460892' timestamp='2014-08-18T03:08:53Z' uid='402319' user='Stalker61' visible='true' version='1' changeset='24822495'>
     <nd ref='3023696942' />
@@ -9781,7 +9783,7 @@
     <tag k='name:ru' v='Дорожная улица' />
     <tag k='ref' v='71Н-1624' />
   </way>
-  <way id='315765976' timestamp='2014-12-04T16:20:23Z' uid='2398059' user='Аркадий82' visible='true' version='2' changeset='27238448'>
+  <way id='315765976' timestamp='2014-12-04T16:20:23Z' uid='2398059' user='Аркадий82' visible='true' version='3' changeset='41092735'>
     <nd ref='3023696994' />
     <nd ref='3016339468' />
     <nd ref='766262614' />
@@ -9791,7 +9793,7 @@
     <nd ref='3218994318' />
     <tag k='highway' v='residential' />
     <tag k='maxspeed' v='60' />
-    <tag k='name' v='улица Гагарина' />
+    <tag k='name' v='Гагарина улица' />
   </way>
   <way id='315766163' timestamp='2014-12-06T13:34:20Z' uid='564990' user='mavl' visible='true' version='2' changeset='27287445'>
     <nd ref='3218996632' />
@@ -9923,7 +9925,7 @@
     <nd ref='4295674864' />
     <tag k='building' v='detached' />
   </way>
-  <way id='430288844' timestamp='2016-07-23T17:43:02Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='40976350'>
+  <way id='430288844' timestamp='2016-07-23T17:43:02Z' uid='1864126' user='ANAT01' visible='true' version='3' changeset='41092735'>
     <nd ref='4295675394' />
     <nd ref='4295675390' />
     <nd ref='4317342901' />
@@ -9931,6 +9933,8 @@
     <nd ref='4295675395' />
     <nd ref='4317342902' />
     <nd ref='4295675394' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Первомайская улица' />
     <tag k='building' v='detached' />
   </way>
   <way id='430288845' timestamp='2016-07-11T06:49:31Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40643713'>
@@ -10224,7 +10228,7 @@
     <nd ref='4303094998' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='431057351' timestamp='2016-07-14T16:53:34Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701'>
+  <way id='431057351' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701'>
     <nd ref='4303095400' />
     <nd ref='4303095386' />
     <nd ref='4303095374' />
@@ -10536,30 +10540,36 @@
     <nd ref='4303095641' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='431057363' timestamp='2016-07-20T19:01:40Z' uid='1864126' user='ANAT01' visible='true' version='3' changeset='40903085'>
+  <way id='431057363' timestamp='2016-07-20T19:01:40Z' uid='1864126' user='ANAT01' visible='true' version='4' changeset='41092735'>
     <nd ref='4303095210' />
     <nd ref='4303095213' />
     <nd ref='4313409409' />
     <nd ref='4303095225' />
     <nd ref='4303095223' />
     <nd ref='4303095210' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057364' timestamp='2016-07-14T16:53:34Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057364' timestamp='2016-07-14T16:53:34Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095011' />
     <nd ref='4303095012' />
     <nd ref='4303095019' />
     <nd ref='4303095017' />
     <nd ref='4303095011' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057365' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057365' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095091' />
     <nd ref='4303095089' />
     <nd ref='4303095097' />
     <nd ref='4303095099' />
     <nd ref='4303095091' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057366' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095125' />
@@ -10569,21 +10579,25 @@
     <nd ref='4303095125' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057367' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057367' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095345' />
     <nd ref='4303095347' />
     <nd ref='4303095355' />
     <nd ref='4303095351' />
     <nd ref='4303095345' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057368' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057368' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095411' />
     <nd ref='4303095412' />
     <nd ref='4303095420' />
     <nd ref='4303095419' />
     <nd ref='4303095411' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057369' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095488' />
@@ -10593,13 +10607,15 @@
     <nd ref='4303095488' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057370' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057370' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095009' />
     <nd ref='4303095010' />
     <nd ref='4303095016' />
     <nd ref='4303095015' />
     <nd ref='4303095009' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057371' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095228' />
@@ -10609,31 +10625,37 @@
     <nd ref='4303095228' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057372' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057372' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095392' />
     <nd ref='4303095397' />
     <nd ref='4303095408' />
     <nd ref='4303095404' />
     <nd ref='4303095392' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057373' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057373' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095275' />
     <nd ref='4303095277' />
     <nd ref='4303095287' />
     <nd ref='4303095285' />
     <nd ref='4303095275' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057374' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057374' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095090' />
     <nd ref='4303095088' />
     <nd ref='4303095096' />
     <nd ref='4303095098' />
     <nd ref='4303095090' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057375' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701'>
+  <way id='431057375' timestamp='2016-07-27T18:53:41Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701'>
     <nd ref='4303095242' />
     <nd ref='4323859807' />
     <nd ref='4303095241' />
@@ -10650,37 +10672,45 @@
     <nd ref='4303095235' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057377' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057377' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095166' />
     <nd ref='4303095168' />
     <nd ref='4303095179' />
     <nd ref='4303095177' />
     <nd ref='4303095166' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057378' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057378' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303094187' />
     <nd ref='4303094188' />
     <nd ref='4303094994' />
     <nd ref='4303094993' />
     <nd ref='4303094187' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057379' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057379' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095070' />
     <nd ref='4303095069' />
     <nd ref='4303095079' />
     <nd ref='4303095080' />
     <nd ref='4303095070' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057380' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057380' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095371' />
     <nd ref='4303095373' />
     <nd ref='4303095383' />
     <nd ref='4303095382' />
     <nd ref='4303095371' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057381' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095194' />
@@ -10707,21 +10737,25 @@
     <nd ref='4303095229' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057384' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057384' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095439' />
     <nd ref='4303095444' />
     <nd ref='4303095437' />
     <nd ref='4303095435' />
     <nd ref='4303095439' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057385' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057385' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095362' />
     <nd ref='4303095365' />
     <nd ref='4303095372' />
     <nd ref='4303095368' />
     <nd ref='4303095362' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19/1' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057386' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095381' />
@@ -10739,21 +10773,25 @@
     <nd ref='4303095188' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057388' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057388' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095294' />
     <nd ref='4303095296' />
     <nd ref='4303095307' />
     <nd ref='4303095304' />
     <nd ref='4303095294' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057389' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057389' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095095' />
     <nd ref='4303095094' />
     <nd ref='4303095103' />
     <nd ref='4303095104' />
     <nd ref='4303095095' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057390' timestamp='2016-07-14T16:53:35Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095340' />
@@ -10763,13 +10801,15 @@
     <nd ref='4303095340' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057391' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057391' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095038' />
     <nd ref='4303095037' />
     <nd ref='4303095047' />
     <nd ref='4303095048' />
     <nd ref='4303095038' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057392' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095231' />
@@ -10779,21 +10819,25 @@
     <nd ref='4303095231' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057393' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057393' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095056' />
     <nd ref='4303095059' />
     <nd ref='4303095067' />
     <nd ref='4303095066' />
     <nd ref='4303095056' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057394' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057394' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095206' />
     <nd ref='4303095212' />
     <nd ref='4303095222' />
     <nd ref='4303095216' />
     <nd ref='4303095206' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057395' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303094184' />
@@ -10811,21 +10855,25 @@
     <nd ref='4303095385' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057397' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057397' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095440' />
     <nd ref='4303095445' />
     <nd ref='4303095451' />
     <nd ref='4303095447' />
     <nd ref='4303095440' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057398' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057398' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095204' />
     <nd ref='4303095207' />
     <nd ref='4303095217' />
     <nd ref='4303095214' />
     <nd ref='4303095204' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057399' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303094179' />
@@ -10835,13 +10883,15 @@
     <nd ref='4303094179' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057400' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057400' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095014' />
     <nd ref='4303095013' />
     <nd ref='4303095022' />
     <nd ref='4303095024' />
     <nd ref='4303095014' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057401' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095155' />
@@ -10859,21 +10909,25 @@
     <nd ref='4303094996' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057404' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057404' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095329' />
     <nd ref='4303095331' />
     <nd ref='4303095341' />
     <nd ref='4303095335' />
     <nd ref='4303095329' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='17/1' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057406' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057406' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095299' />
     <nd ref='4303095301' />
     <nd ref='4303095313' />
     <nd ref='4303095310' />
     <nd ref='4303095299' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057407' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303094165' />
@@ -10891,21 +10945,25 @@
     <nd ref='4303095247' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057411' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057411' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303094175' />
     <nd ref='4303094176' />
     <nd ref='4303094186' />
     <nd ref='4303094185' />
     <nd ref='4303094175' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057412' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057412' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095238' />
     <nd ref='4303095244' />
     <nd ref='4303095258' />
     <nd ref='4303095254' />
     <nd ref='4303095238' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057413' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095178' />
@@ -10923,21 +10981,25 @@
     <nd ref='4303095377' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057416' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057416' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095162' />
     <nd ref='4303095163' />
     <nd ref='4303095172' />
     <nd ref='4303095171' />
     <nd ref='4303095162' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057418' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057418' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095452' />
     <nd ref='4303095453' />
     <nd ref='4303095459' />
     <nd ref='4303095457' />
     <nd ref='4303095452' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057419' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095160' />
@@ -10947,45 +11009,55 @@
     <nd ref='4303095160' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057421' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057421' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095018' />
     <nd ref='4303095020' />
     <nd ref='4303095028' />
     <nd ref='4303095026' />
     <nd ref='4303095018' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057422' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057422' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095205' />
     <nd ref='4303095211' />
     <nd ref='4303095221' />
     <nd ref='4303095215' />
     <nd ref='4303095205' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057424' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057424' timestamp='2016-07-14T16:53:36Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095321' />
     <nd ref='4303095323' />
     <nd ref='4303095330' />
     <nd ref='4303095328' />
     <nd ref='4303095321' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057425' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057425' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095243' />
     <nd ref='4303095250' />
     <nd ref='4303095261' />
     <nd ref='4303095256' />
     <nd ref='4303095243' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057426' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057426' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095346' />
     <nd ref='4303095348' />
     <nd ref='4303095357' />
     <nd ref='4303095352' />
     <nd ref='4303095346' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057428' timestamp='2016-07-20T19:01:40Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='40903085'>
     <nd ref='4303095108' />
@@ -11029,13 +11101,15 @@
     <nd ref='4303095106' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057435' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057435' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095438' />
     <nd ref='4303095441' />
     <nd ref='4303095449' />
     <nd ref='4303095446' />
     <nd ref='4303095438' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057436' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303094168' />
@@ -11045,13 +11119,15 @@
     <nd ref='4303094168' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057438' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057438' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095387' />
     <nd ref='4303095389' />
     <nd ref='4303095403' />
     <nd ref='4303095399' />
     <nd ref='4303095387' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057439' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095050' />
@@ -11069,29 +11145,35 @@
     <nd ref='4303095141' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057442' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057442' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095406' />
     <nd ref='4303095407' />
     <nd ref='4303095414' />
     <nd ref='4303095413' />
     <nd ref='4303095406' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057444' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057444' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095062' />
     <nd ref='4303095063' />
     <nd ref='4303095076' />
     <nd ref='4303095074' />
     <nd ref='4303095062' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057445' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057445' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095473' />
     <nd ref='4303095470' />
     <nd ref='4303095471' />
     <nd ref='4303095475' />
     <nd ref='4303095473' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Набережная улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057447' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095170' />
@@ -11101,13 +11183,15 @@
     <nd ref='4303095170' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057448' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057448' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095423' />
     <nd ref='4303095424' />
     <nd ref='4303095430' />
     <nd ref='4303095428' />
     <nd ref='4303095423' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057451' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303094170' />
@@ -11117,7 +11201,7 @@
     <nd ref='4303094170' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057453' timestamp='2016-07-20T19:01:40Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='40903085'>
+  <way id='431057453' timestamp='2016-07-20T19:01:40Z' uid='1864126' user='ANAT01' visible='true' version='3' changeset='41092735'>
     <nd ref='4303095137' />
     <nd ref='4303095138' />
     <nd ref='4313409402' />
@@ -11125,15 +11209,19 @@
     <nd ref='4303095148' />
     <nd ref='4313409401' />
     <nd ref='4303095137' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057454' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057454' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095455' />
     <nd ref='4303095456' />
     <nd ref='4303095462' />
     <nd ref='4303095461' />
     <nd ref='4303095455' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057456' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095036' />
@@ -11143,13 +11231,15 @@
     <nd ref='4303095036' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057457' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057457' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095427' />
     <nd ref='4303095429' />
     <nd ref='4303095432' />
     <nd ref='4303095431' />
     <nd ref='4303095427' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057459' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095200' />
@@ -11167,30 +11257,36 @@
     <nd ref='4303095150' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057461' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057461' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095129' />
     <nd ref='4303095131' />
     <nd ref='4303095143' />
     <nd ref='4303095142' />
     <nd ref='4303095129' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057462' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057462' timestamp='2016-07-14T16:53:37Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303094999' />
     <nd ref='4303095000' />
     <nd ref='4303095004' />
     <nd ref='4303095003' />
     <nd ref='4303094999' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431057464' timestamp='2016-07-20T19:01:40Z' uid='1864126' user='ANAT01' visible='true' version='3' changeset='40903085'>
+  <way id='431057464' timestamp='2016-07-20T19:01:40Z' uid='1864126' user='ANAT01' visible='true' version='4' changeset='41092735'>
     <nd ref='4303095173' />
     <nd ref='4303095175' />
     <nd ref='4313409403' />
     <nd ref='4303095186' />
     <nd ref='4303095185' />
     <nd ref='4303095173' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431057465' timestamp='2016-07-14T16:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
     <nd ref='4303095417' />
@@ -11200,13 +11296,15 @@
     <nd ref='4303095417' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431057466' timestamp='2016-07-14T16:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40744118'>
+  <way id='431057466' timestamp='2016-07-14T16:53:38Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4303095027' />
     <nd ref='4303095030' />
     <nd ref='4303095033' />
     <nd ref='4303095032' />
     <nd ref='4303095027' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Октябрьская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554023' timestamp='2016-07-17T17:58:06Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307675507' />
@@ -11935,14 +12033,16 @@
     <nd ref='4307676078' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554049' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41018742'>
+  <way id='431554049' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='3' changeset='41092735'>
     <nd ref='4307676031' />
     <nd ref='4307676030' />
     <nd ref='4307676023' />
     <nd ref='4307676025' />
     <nd ref='4319945645' />
     <nd ref='4307676031' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554050' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307676009' />
@@ -11952,29 +12052,35 @@
     <nd ref='4307676009' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554051' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554051' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675952' />
     <nd ref='4307675951' />
     <nd ref='4307675941' />
     <nd ref='4307675943' />
     <nd ref='4307675952' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554052' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554052' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676054' />
     <nd ref='4307676052' />
     <nd ref='4307676045' />
     <nd ref='4307676048' />
     <nd ref='4307676054' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554053' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554053' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675914' />
     <nd ref='4307675913' />
     <nd ref='4307675907' />
     <nd ref='4307675908' />
     <nd ref='4307675914' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554054' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307676033' />
@@ -11984,31 +12090,37 @@
     <nd ref='4307676033' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554055' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554055' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675812' />
     <nd ref='4307675810' />
     <nd ref='4307675799' />
     <nd ref='4307675800' />
     <nd ref='4307675812' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554056' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554056' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675948' />
     <nd ref='4307675947' />
     <nd ref='4307675937' />
     <nd ref='4307675939' />
     <nd ref='4307675948' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554057' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554057' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676044' />
     <nd ref='4307676043' />
     <nd ref='4307676036' />
     <nd ref='4307676037' />
     <nd ref='4307676044' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554058' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41018742'>
+  <way id='431554058' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='3' changeset='41092735'>
     <nd ref='4307676173' />
     <nd ref='4319945716' />
     <nd ref='4307676171' />
@@ -12016,31 +12128,39 @@
     <nd ref='4319945715' />
     <nd ref='4307676160' />
     <nd ref='4307676173' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554059' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554059' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675796' />
     <nd ref='4307675793' />
     <nd ref='4307675784' />
     <nd ref='4307675786' />
     <nd ref='4307675796' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554060' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554060' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676198' />
     <nd ref='4307676197' />
     <nd ref='4307676189' />
     <nd ref='4307676190' />
     <nd ref='4307676198' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554061' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554061' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675750' />
     <nd ref='4307675748' />
     <nd ref='4307675737' />
     <nd ref='4307675738' />
     <nd ref='4307675750' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554062' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307676064' />
@@ -12058,21 +12178,25 @@
     <nd ref='4307675997' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554064' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554064' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675765' />
     <nd ref='4307675761' />
     <nd ref='4307675749' />
     <nd ref='4307675751' />
     <nd ref='4307675765' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554065' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554065' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676095' />
     <nd ref='4307676093' />
     <nd ref='4307676090' />
     <nd ref='4307676091' />
     <nd ref='4307676095' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554066' timestamp='2016-07-17T17:58:08Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307676067' />
@@ -12090,29 +12214,35 @@
     <nd ref='4307676029' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554068' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554068' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675995' />
     <nd ref='4307675993' />
     <nd ref='4307675982' />
     <nd ref='4307675983' />
     <nd ref='4307675995' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554069' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554069' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676081' />
     <nd ref='4307676079' />
     <nd ref='4307676073' />
     <nd ref='4307676075' />
     <nd ref='4307676081' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554070' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554070' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676141' />
     <nd ref='4307676139' />
     <nd ref='4307676136' />
     <nd ref='4307676137' />
     <nd ref='4307676141' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554071' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307676051' />
@@ -12178,21 +12308,25 @@
     <nd ref='4307675915' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554079' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554079' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675867' />
     <nd ref='4307675865' />
     <nd ref='4307675858' />
     <nd ref='4307675859' />
     <nd ref='4307675867' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554080' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554080' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676042' />
     <nd ref='4307676041' />
     <nd ref='4307676034' />
     <nd ref='4307676035' />
     <nd ref='4307676042' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Новая улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554081' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41044110'>
     <nd ref='4307676109' />
@@ -12212,13 +12346,15 @@
     <nd ref='4307675933' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554083' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554083' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675835' />
     <nd ref='4307675834' />
     <nd ref='4307675829' />
     <nd ref='4307675830' />
     <nd ref='4307675835' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554084' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307676169' />
@@ -12238,21 +12374,25 @@
     <nd ref='4307676134' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554086' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554086' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676132' />
     <nd ref='4307676131' />
     <nd ref='4307676124' />
     <nd ref='4307676125' />
     <nd ref='4307676132' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554087' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554087' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676089' />
     <nd ref='4307676088' />
     <nd ref='4307676084' />
     <nd ref='4307676086' />
     <nd ref='4307676089' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554088' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41044110'>
     <nd ref='4307676101' />
@@ -12274,53 +12414,65 @@
     <nd ref='4307676122' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554090' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554090' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676118' />
     <nd ref='4307676117' />
     <nd ref='4307676113' />
     <nd ref='4307676114' />
     <nd ref='4307676118' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554091' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554091' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675887' />
     <nd ref='4307675886' />
     <nd ref='4307675881' />
     <nd ref='4307675882' />
     <nd ref='4307675887' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554092' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554092' timestamp='2016-07-17T17:58:09Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676112' />
     <nd ref='4307676111' />
     <nd ref='4307676105' />
     <nd ref='4307676106' />
     <nd ref='4307676112' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554093' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554093' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676172' />
     <nd ref='4307676170' />
     <nd ref='4307676157' />
     <nd ref='4307676159' />
     <nd ref='4307676172' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554094' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554094' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676200' />
     <nd ref='4307676199' />
     <nd ref='4307676191' />
     <nd ref='4307676192' />
     <nd ref='4307676200' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554095' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554095' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676196' />
     <nd ref='4307676194' />
     <nd ref='4307676186' />
     <nd ref='4307676188' />
     <nd ref='4307676196' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554096' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307675884' />
@@ -12338,13 +12490,15 @@
     <nd ref='4307675904' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554098' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554098' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676175' />
     <nd ref='4307676174' />
     <nd ref='4307676162' />
     <nd ref='4307676164' />
     <nd ref='4307676175' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554099' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307676177' />
@@ -12354,29 +12508,35 @@
     <nd ref='4307676177' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554100' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554100' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676195' />
     <nd ref='4307676193' />
     <nd ref='4307676185' />
     <nd ref='4307676187' />
     <nd ref='4307676195' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554101' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554101' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307676055' />
     <nd ref='4307676053' />
     <nd ref='4307676046' />
     <nd ref='4307676049' />
     <nd ref='4307676055' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Новая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='431554102' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554102' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675872' />
     <nd ref='4307675871' />
     <nd ref='4307675862' />
     <nd ref='4307675863' />
     <nd ref='4307675872' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431554103' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
     <nd ref='4307675978' />
@@ -12402,13 +12562,15 @@
     <nd ref='4307676001' />
     <tag k='building' v='yes' />
   </way>
-  <way id='431554106' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40803164'>
+  <way id='431554106' timestamp='2016-07-17T17:58:10Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4307675974' />
     <nd ref='4307675972' />
     <nd ref='4307675966' />
     <nd ref='4307675968' />
     <nd ref='4307675974' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='431716785' timestamp='2016-07-18T16:32:34Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40824402'>
     <nd ref='4309493106' />
@@ -12944,7 +13106,7 @@
     <nd ref='4311723882' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='431958681' timestamp='2016-07-19T19:18:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701'>
+  <way id='431958681' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41069701'>
     <nd ref='4311723807' />
     <nd ref='4311723819' />
     <nd ref='4311723820' />
@@ -13938,61 +14100,75 @@
     <nd ref='4317343001' />
     <tag k='building' v='yes' />
   </way>
-  <way id='432778861' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778861' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343007' />
     <nd ref='4317343006' />
     <nd ref='4317343036' />
     <nd ref='4317343037' />
     <nd ref='4317343007' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778862' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778862' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343018' />
     <nd ref='4317343016' />
     <nd ref='4317343040' />
     <nd ref='4317343042' />
     <nd ref='4317343018' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778863' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778863' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342997' />
     <nd ref='4317342995' />
     <nd ref='4317343021' />
     <nd ref='4317343024' />
     <nd ref='4317342997' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778864' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778864' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343025' />
     <nd ref='4317343022' />
     <nd ref='4317343044' />
     <nd ref='4317343045' />
     <nd ref='4317343025' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778865' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778865' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342976' />
     <nd ref='4317342974' />
     <nd ref='4317342982' />
     <nd ref='4317342984' />
     <nd ref='4317342976' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778866' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778866' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342958' />
     <nd ref='4317342955' />
     <nd ref='4317342967' />
     <nd ref='4317342970' />
     <nd ref='4317342958' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778867' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778867' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343035' />
     <nd ref='4317343034' />
     <nd ref='4317343046' />
     <nd ref='4317343047' />
     <nd ref='4317343035' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19а' />
+    <tag k='addr:street' v='Северная улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='432778868' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
     <nd ref='4317342973' />
@@ -14002,69 +14178,85 @@
     <nd ref='4317342973' />
     <tag k='building' v='yes' />
   </way>
-  <way id='432778869' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778869' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342959' />
     <nd ref='4317342957' />
     <nd ref='4317342969' />
     <nd ref='4317342971' />
     <nd ref='4317342959' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778870' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778870' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342977' />
     <nd ref='4317342975' />
     <nd ref='4317342983' />
     <nd ref='4317342985' />
     <nd ref='4317342977' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778871' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778871' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343004' />
     <nd ref='4317343002' />
     <nd ref='4317343030' />
     <nd ref='4317343032' />
     <nd ref='4317343004' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778872' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778872' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342979' />
     <nd ref='4317342978' />
     <nd ref='4317342986' />
     <nd ref='4317342987' />
     <nd ref='4317342979' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778873' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778873' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343005' />
     <nd ref='4317343003' />
     <nd ref='4317343031' />
     <nd ref='4317343033' />
     <nd ref='4317343005' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778874' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778874' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343019' />
     <nd ref='4317343017' />
     <nd ref='4317343041' />
     <nd ref='4317343043' />
     <nd ref='4317343019' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778875' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778875' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342993' />
     <nd ref='4317342990' />
     <nd ref='4317343012' />
     <nd ref='4317343015' />
     <nd ref='4317342993' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778876' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778876' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342951' />
     <nd ref='4317342950' />
     <nd ref='4317342962' />
     <nd ref='4317342963' />
     <nd ref='4317342951' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='432778877' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
     <nd ref='4317342873' />
@@ -14074,29 +14266,35 @@
     <nd ref='4317342873' />
     <tag k='building' v='yes' />
   </way>
-  <way id='432778878' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778878' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342956' />
     <nd ref='4317342954' />
     <nd ref='4317342966' />
     <nd ref='4317342968' />
     <nd ref='4317342956' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778879' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778879' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342949' />
     <nd ref='4317342948' />
     <nd ref='4317342960' />
     <nd ref='4317342961' />
     <nd ref='4317342949' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778880' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778880' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342996' />
     <nd ref='4317342994' />
     <nd ref='4317343020' />
     <nd ref='4317343023' />
     <nd ref='4317342996' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='432778881' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
     <nd ref='4317342953' />
@@ -14106,37 +14304,45 @@
     <nd ref='4317342953' />
     <tag k='building' v='yes' />
   </way>
-  <way id='432778882' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778882' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342991' />
     <nd ref='4317342988' />
     <nd ref='4317343010' />
     <nd ref='4317343013' />
     <nd ref='4317342991' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778883' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778883' timestamp='2016-07-23T17:43:01Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317342992' />
     <nd ref='4317342989' />
     <nd ref='4317343011' />
     <nd ref='4317343014' />
     <nd ref='4317342992' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778884' timestamp='2016-07-23T17:43:02Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778884' timestamp='2016-07-23T17:43:02Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343000' />
     <nd ref='4317342998' />
     <nd ref='4317343026' />
     <nd ref='4317343028' />
     <nd ref='4317343000' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='432778885' timestamp='2016-07-23T17:43:02Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='40976350'>
+  <way id='432778885' timestamp='2016-07-23T17:43:02Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4317343009' />
     <nd ref='4317343008' />
     <nd ref='4317343038' />
     <nd ref='4317343039' />
     <nd ref='4317343009' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Советская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='433093451' timestamp='2016-07-25T17:53:20Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
     <nd ref='4319945571' />
@@ -14537,37 +14743,45 @@
     <nd ref='4319945664' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433093506' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
+  <way id='433093506' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4319945642' />
     <nd ref='4319945637' />
     <nd ref='4319945636' />
     <nd ref='4319945641' />
     <nd ref='4319945642' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433093507' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
+  <way id='433093507' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4319945625' />
     <nd ref='4319945624' />
     <nd ref='4319945620' />
     <nd ref='4319945621' />
     <nd ref='4319945625' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433093508' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
+  <way id='433093508' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4319945694' />
     <nd ref='4319945691' />
     <nd ref='4319945690' />
     <nd ref='4319945693' />
     <nd ref='4319945694' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433093509' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
+  <way id='433093509' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4319945562' />
     <nd ref='4319945566' />
     <nd ref='4319945560' />
     <nd ref='4319945557' />
     <nd ref='4319945562' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Новая улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='433093510' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
     <nd ref='4319945635' />
@@ -14577,21 +14791,25 @@
     <nd ref='4319945635' />
     <tag k='building' v='yes' />
   </way>
-  <way id='433093511' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
+  <way id='433093511' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4319945568' />
     <nd ref='4319945567' />
     <nd ref='4319945563' />
     <nd ref='4319945564' />
     <nd ref='4319945568' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433093512' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
+  <way id='433093512' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4319945680' />
     <nd ref='4319945681' />
     <nd ref='4319945678' />
     <nd ref='4319945677' />
     <nd ref='4319945680' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='433093513' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
     <nd ref='4319945542' />
@@ -14601,7 +14819,7 @@
     <nd ref='4319945542' />
     <tag k='building' v='yes' />
   </way>
-  <way id='433093514' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
+  <way id='433093514' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4319945701' />
     <nd ref='4319945702' />
     <nd ref='4319945708' />
@@ -14609,7 +14827,9 @@
     <nd ref='4319945703' />
     <nd ref='4319945700' />
     <nd ref='4319945701' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Новая улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='433093515' timestamp='2016-07-25T17:53:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41018742'>
     <nd ref='4319945553' />
@@ -14989,69 +15209,85 @@
     <nd ref='4307676042' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433372400' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372400' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321671258' />
     <nd ref='4321671257' />
     <nd ref='4321671255' />
     <nd ref='4321671256' />
     <nd ref='4321671258' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Новая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372401' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372401' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672417' />
     <nd ref='4321672416' />
     <nd ref='4321672407' />
     <nd ref='4321672409' />
     <nd ref='4321672417' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372402' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372402' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672382' />
     <nd ref='4321672371' />
     <nd ref='4321672370' />
     <nd ref='4321672381' />
     <nd ref='4321672382' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372403' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372403' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672397' />
     <nd ref='4321672393' />
     <nd ref='4321672392' />
     <nd ref='4321672396' />
     <nd ref='4321672397' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372404' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372404' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672399' />
     <nd ref='4321672395' />
     <nd ref='4321672394' />
     <nd ref='4321672398' />
     <nd ref='4321672399' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372405' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372405' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672353' />
     <nd ref='4321672352' />
     <nd ref='4321672335' />
     <nd ref='4321672337' />
     <nd ref='4321672353' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372406' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372406' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672427' />
     <nd ref='4321672406' />
     <nd ref='4321672404' />
     <nd ref='4321672426' />
     <nd ref='4321672427' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Первомайская улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372407' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372407' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672422' />
     <nd ref='4321672413' />
     <nd ref='4321672414' />
     <nd ref='4321672423' />
     <nd ref='4321672422' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
   <way id='433372409' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
     <nd ref='4321671267' />
@@ -15061,50 +15297,60 @@
     <nd ref='4321671267' />
     <tag k='building' v='yes' />
   </way>
-  <way id='433372410' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372410' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672361' />
     <nd ref='4321672360' />
     <nd ref='4321672347' />
     <nd ref='4321672348' />
     <nd ref='4321672361' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372412' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372412' timestamp='2016-07-26T18:03:22Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672420' />
     <nd ref='4321672419' />
     <nd ref='4321672405' />
     <nd ref='4321672408' />
     <nd ref='4321672420' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372414' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372414' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672412' />
     <nd ref='4321672403' />
     <nd ref='4321672401' />
     <nd ref='4321672400' />
     <nd ref='4321672411' />
     <nd ref='4321672412' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Гагарина улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372416' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372416' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672300' />
     <nd ref='4321671288' />
     <nd ref='4321671287' />
     <nd ref='4321672293' />
     <nd ref='4321672298' />
     <nd ref='4321672300' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Новая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372418' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372418' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321671277' />
     <nd ref='4321671278' />
     <nd ref='4321671275' />
     <nd ref='4321671270' />
     <nd ref='4321671269' />
     <nd ref='4321671277' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Новая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372420' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372420' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672364' />
     <nd ref='4321672363' />
     <nd ref='4321672362' />
@@ -15112,9 +15358,11 @@
     <nd ref='4321672350' />
     <nd ref='4321672351' />
     <nd ref='4321672364' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372421' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372421' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672359' />
     <nd ref='4321672358' />
     <nd ref='4321672357' />
@@ -15122,9 +15370,11 @@
     <nd ref='4321672345' />
     <nd ref='4321672346' />
     <nd ref='4321672359' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433372422' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41044110'>
+  <way id='433372422' timestamp='2016-07-26T18:03:23Z' uid='1864126' user='ANAT01' visible='true' version='2' changeset='41092735'>
     <nd ref='4321672356' />
     <nd ref='4321672355' />
     <nd ref='4321672354' />
@@ -15132,9 +15382,11 @@
     <nd ref='4321672340' />
     <nd ref='4321672341' />
     <nd ref='4321672356' />
-    <tag k='building' v='yes' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='building' v='detached' />
   </way>
-  <way id='433980294' visible='true' version='1' changeset='41069701'>
+  <way id='433980294' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859536' />
     <nd ref='4323859534' />
     <nd ref='4323859530' />
@@ -15148,7 +15400,7 @@
     <nd ref='4323859536' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433980296' visible='true' version='1' changeset='41069701'>
+  <way id='433980296' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859560' />
     <nd ref='4323859561' />
     <nd ref='4323859559' />
@@ -15162,7 +15414,7 @@
     <nd ref='4323859560' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433980298' visible='true' version='1' changeset='41069701'>
+  <way id='433980298' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859511' />
     <nd ref='4323859514' />
     <nd ref='4323859517' />
@@ -15176,7 +15428,7 @@
     <nd ref='4323859511' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433980300' visible='true' version='1' changeset='41069701'>
+  <way id='433980300' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859819' />
     <nd ref='4323859821' />
     <nd ref='4323859822' />
@@ -15190,52 +15442,52 @@
     <nd ref='4323859799' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980302' visible='true' version='1' changeset='41069701'>
+  <way id='433980302' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859802' />
     <nd ref='4323859824' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980304' visible='true' version='1' changeset='41069701'>
+  <way id='433980304' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859831' />
     <nd ref='4323859832' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980305' visible='true' version='1' changeset='41069701'>
+  <way id='433980305' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859837' />
     <nd ref='4303095392' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980307' visible='true' version='1' changeset='41069701'>
+  <way id='433980307' timestamp='2016-07-27T18:53:38Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859835' />
     <nd ref='4323859836' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980309' visible='true' version='1' changeset='41069701'>
+  <way id='433980309' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859801' />
     <nd ref='4323859822' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980310' visible='true' version='1' changeset='41069701'>
+  <way id='433980310' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859828' />
     <nd ref='4303095318' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980312' visible='true' version='1' changeset='41069701'>
+  <way id='433980312' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859800' />
     <nd ref='4323859821' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980314' visible='true' version='1' changeset='41069701'>
+  <way id='433980314' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859799' />
     <nd ref='4323859819' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980315' visible='true' version='1' changeset='41069701'>
+  <way id='433980315' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859803' />
     <nd ref='4323859807' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980317' visible='true' version='1' changeset='41069701'>
+  <way id='433980317' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859507' />
     <nd ref='4323859506' />
     <nd ref='4323859505' />
@@ -15264,13 +15516,13 @@
     <tag k='supervised' v='no' />
     <tag k='surface' v='sand' />
   </way>
-  <way id='433980323' visible='true' version='1' changeset='41069701'>
+  <way id='433980323' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4303095397' />
     <nd ref='4323859841' />
     <nd ref='4323859844' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980325' visible='true' version='1' changeset='41069701'>
+  <way id='433980325' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859796' />
     <nd ref='4323859572' />
     <nd ref='4323859571' />
@@ -15278,14 +15530,14 @@
     <nd ref='4323859796' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980327' visible='true' version='1' changeset='41069701'>
+  <way id='433980327' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859839' />
     <nd ref='4323859838' />
     <nd ref='4323859833' />
     <nd ref='4323859834' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980329' visible='true' version='1' changeset='41069701'>
+  <way id='433980329' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859581' />
     <nd ref='4323859568' />
     <nd ref='4323859567' />
@@ -15293,7 +15545,7 @@
     <nd ref='4323859581' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980331' visible='true' version='1' changeset='41069701'>
+  <way id='433980331' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859857' />
     <nd ref='4323859856' />
     <nd ref='4323859854' />
@@ -15301,7 +15553,7 @@
     <nd ref='4323859857' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980334' visible='true' version='1' changeset='41069701'>
+  <way id='433980334' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859794' />
     <nd ref='4323859790' />
     <nd ref='4323859809' />
@@ -15309,7 +15561,7 @@
     <nd ref='4323859794' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980336' visible='true' version='1' changeset='41069701'>
+  <way id='433980336' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859570' />
     <nd ref='4323859569' />
     <nd ref='4323859585' />
@@ -15317,7 +15569,7 @@
     <nd ref='4323859570' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980338' visible='true' version='1' changeset='41069701'>
+  <way id='433980338' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859578' />
     <nd ref='4323859575' />
     <nd ref='4323859573' />
@@ -15325,7 +15577,7 @@
     <nd ref='4323859793' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980340' visible='true' version='1' changeset='41069701'>
+  <way id='433980340' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859826' />
     <nd ref='4323859827' />
     <nd ref='4323859808' />
@@ -15335,7 +15587,7 @@
     <nd ref='4323859826' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980342' visible='true' version='1' changeset='41069701'>
+  <way id='433980342' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859831' />
     <nd ref='4323859834' />
     <nd ref='4323859839' />
@@ -15346,7 +15598,7 @@
     <nd ref='4323859831' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980345' visible='true' version='1' changeset='41069701'>
+  <way id='433980345' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859851' />
     <nd ref='4323859852' />
     <nd ref='4323859853' />
@@ -15358,7 +15610,7 @@
     <nd ref='4323859851' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433980347' visible='true' version='1' changeset='41069701'>
+  <way id='433980347' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859519' />
     <nd ref='4323859521' />
     <nd ref='4323859525' />
@@ -15371,7 +15623,7 @@
     <nd ref='4323859519' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433980350' visible='true' version='1' changeset='41069701'>
+  <way id='433980350' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859584' />
     <nd ref='4323859580' />
     <nd ref='4323859578' />
@@ -15384,7 +15636,7 @@
     <nd ref='4323859584' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433980352' visible='true' version='1' changeset='41069701'>
+  <way id='433980352' timestamp='2016-07-27T18:53:39Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859845' />
     <nd ref='4323859844' />
     <nd ref='4323859843' />
@@ -15396,7 +15648,7 @@
     <nd ref='4323859823' />
     <tag k='barrier' v='fence' />
   </way>
-  <way id='433980354' visible='true' version='1' changeset='41069701'>
+  <way id='433980354' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859537' />
     <nd ref='4323859538' />
     <nd ref='4313409395' />
@@ -15409,7 +15661,7 @@
     <nd ref='4323859537' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433980358' visible='true' version='1' changeset='41069701'>
+  <way id='433980358' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859550' />
     <nd ref='4323859556' />
     <nd ref='4323859558' />
@@ -15422,7 +15674,7 @@
     <nd ref='4323859550' />
     <tag k='natural' v='wood' />
   </way>
-  <way id='433980360' visible='true' version='1' changeset='41069701'>
+  <way id='433980360' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859818' />
     <nd ref='4323859816' />
     <nd ref='4323859813' />
@@ -15430,7 +15682,7 @@
     <nd ref='4323859818' />
     <tag k='building' v='yes' />
   </way>
-  <way id='433980363' visible='true' version='1' changeset='41069701'>
+  <way id='433980363' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859817' />
     <nd ref='4323859820' />
     <nd ref='4323859812' />
@@ -15438,7 +15690,7 @@
     <nd ref='4323859817' />
     <tag k='building' v='yes' />
   </way>
-  <way id='433980364' visible='true' version='1' changeset='41069701'>
+  <way id='433980364' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859574' />
     <nd ref='4323859576' />
     <nd ref='4323859566' />
@@ -15446,7 +15698,7 @@
     <nd ref='4323859574' />
     <tag k='building' v='yes' />
   </way>
-  <way id='433980366' visible='true' version='1' changeset='41069701'>
+  <way id='433980366' timestamp='2016-07-27T18:53:40Z' uid='1864126' user='ANAT01' visible='true' version='1' changeset='41069701'>
     <nd ref='4323859805' />
     <nd ref='4323859806' />
     <nd ref='4323859797' />

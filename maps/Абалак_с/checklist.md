@@ -14,7 +14,8 @@
 :white_check_mark: | Лес (natural=wood) | :tomato:
 :white_check_mark: | Вода (natural=water) | :tomato:
 :white_check_mark: | [Заборы](http://wiki.openstreetmap.org/wiki/RU:Key:barrier), участки (barrier=fence) | :tomato::tomato::tomato::tomato::tomato::tomato::tomato:
-    | Частные дома и их адреса | 
+:o: | Здания,Строения и их адресация объектов | :tomato: |
+    | Социальные объекты (школа, сад, почта, администрация, медпункт) |  
 
 
 ## Проблемы
